@@ -1,4 +1,3 @@
-import { Button } from '@/components/ui/button'
 import { useState } from 'react';
 
 import { SketchPicker } from 'react-color';
